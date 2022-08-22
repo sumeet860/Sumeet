@@ -88,3 +88,5 @@ Rendered code on a classification problem of "Heart Disease Predicition" dataset
 Have done data visualization and created and interactive dashboard using Tableau of "Supermarket Store Branch Sales Analysis".
 
 Executed visualization and dashboard using PowerBI on "UCL 2021-22 | Players Data".
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumeet860&theme=dark&background=000000)](https://git.io/streak-stats)
