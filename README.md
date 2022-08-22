@@ -30,7 +30,7 @@ A Data Science enthusiast who loves to work on building models that can help tra
 
 An inspired Data Analyst having total 1.7 years of experience and 1.2 years of relevant experience in SQL. Have done projects on analysis, Participated in Kaggle competition, done Data Viusalization and created Interactive Dashboard on different Datasets.
 
-* Having hands on experience in Python, SQL, Spreadsheet, and Database.
+* Having hands on experience in Python, SQL, Spreadsheet, and MysqlDatabase.
 * Extensive knowledge in BI tools such as PowerBI, Tableau. Strong Data Visualization and Dashboard Reporting Skills.
 * Have good insights on Analytics and Pattern recognition.
 * Possess great knowledge in Statistics, Machine Learning such as Supervised and Unsupervised Learning, Classification, Clustering and Regression.
