@@ -81,6 +81,8 @@ An inspired Data Analyst having total 1.7 years of experience and 1.2 years of r
 
 Done data analysis and modelling of a dataset "Titanic-Spaceship" a Kaggle competition and got an accuracy score of 0.80173. It is a classification problem. Also did the visualization using Tableau Public.
 
+Did analysis and visualization using Python Matplotlib and Seaborn on "Amazon Seller-Order Status Prediction" dataset in Jupyter Notebook.
+
 Rendered code on a classification problem of "Heart Disease Predicition" dataset with EDA and data mdoelling with an accuracy score of 0.88524.
 
 Have done data visualization and created and interactive dashboard using Tableau of "Supermarket Store Branch Sales Analysis".
